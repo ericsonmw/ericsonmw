@@ -1,11 +1,10 @@
-# Sobre mim
+## Olá eu sou o **@ericsonmw** 👋
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+#### - 👀 Estou interessado em aprender novas linguagens.
 
-- 👋 Olá eu sou o @ericsonmw
-- 👀 Eu estou interssado em aprender novas linguagens.
-- 👍: Eu estou aprendendo a programar recentemente as linguagens javaScript e Scratch.
+#### - 📓 Estou aprendendo a programar as linguagens JavaScript e Scratch
 
+[![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![](https://img.shields.io/badge/Scratch-FF7F00?style=for-the-badge&logo=scratch&logoColor=white)]()
 
-<!---
-ericsonmw/ericsonmw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
